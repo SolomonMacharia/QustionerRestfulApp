@@ -1,2 +1,2 @@
 # QustionerRestfulApp
-A simple restful app in flask, and raw postgresql
+A simple restful app in flask, and postgresql
